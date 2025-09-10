@@ -1,0 +1,15 @@
+parameter,value,min_value,max_value,description,source
+beta,0.3,0.1,0.8,Transmission rate (per day),Literature
+gamma,0.05,0.01,0.2,Recovery rate (per day),Literature
+mu,0.0001,0.00005,0.0005,Birth/death rate (per day),Demographic data
+sigma,0.1,0.05,0.3,Incubation rate (per day),Literature
+a,0.3,0.1,0.5,Biting rate (bites per mosquito per day),Vector studies
+b,0.5,0.3,0.8,Probability of transmission from human to mosquito,Vector studies
+c,0.5,0.3,0.8,Probability of transmission from mosquito to human,Vector studies
+mu_v,0.1,0.05,0.2,Vector death rate (per day),Vector studies
+sigma_v,0.2,0.1,0.4,Vector incubation rate (per day),Vector studies
+seasonal_amplitude,0.3,0.0,0.8,Seasonal variation amplitude,Climate data
+N_h,10000,5000,50000,Human population size,Demographic data
+N_v,50000,10000,200000,Vector population size,Vector surveys
+
+

@@ -225,3 +225,8 @@ This project is open source and available under the MIT License.
 ## ⚠️ Disclaimer
 
 This software is for educational and research purposes. It should not be used for clinical decision-making or public health policy without proper validation and expert consultation.
+
+
+# Test Download:
+<a href="https://raw.githubusercontent.com/ICI3D/RTutorials/master/ICI3D_RTutorial_4.R" download="ICI3D_RTutorial_4.R">Download ICI3D_RTutorial_4.R</a>
+
